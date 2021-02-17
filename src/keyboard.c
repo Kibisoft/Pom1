@@ -21,6 +21,8 @@
 #include "options.h"
 #include "pia6820.h"
 #include "screen.h"
+#include "stdio.h"
+
 
 static FILE *_fp;
 static const char *_filename;
